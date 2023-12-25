@@ -15,15 +15,20 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-/*
-Program to find the gcd of two number using function.
-Developed by: 
-RegisterNumber:  
-*/
+#Program is swap two values.
+#Developed by:RUCHITRA THIYAGARJ
+#RegisterNumber:23000100
+a=float(input())
+b=float(input())
+t=a
+a=b
+b=t
+print("Swapped values are:",a,b)
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![image](https://github.com/RuchitraThiyagaraj/GCD-of-two-numbers/assets/154776996/b6b5a15e-0df1-4523-b271-3ef45a7eba02)
+
 
 
 ## Result:
